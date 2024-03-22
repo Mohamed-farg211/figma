@@ -1,0 +1,137 @@
+/* 1440 */
+@media screen and (max-width: 1440px) {
+    .box1 .img-box {
+        display: none;
+    }
+
+    .box2 .card-imgbox2 .img-box2 .card-icon-box2 {
+        display: none;
+    }
+}
+
+
+/* 1024 */
+@media screen and (max-width: 1024px) {
+    .head .navbar .navbar-nav .nav-item {
+        padding-right: 0px;
+    }
+
+    .head .navbar .navbar-nav .nav-after::before {
+        left: 0px;
+    }
+
+    .box1 .card-body .box1-title {
+        font-size: 55px;
+    }
+
+    .box1 .img-box {
+        display: none;
+    }
+
+    .box2 .card-imgbox2 .img-box2 .card-icon-box2 {
+        display: none;
+    }
+
+    .box4 .cardbody-box4 .btn-box4 .btn-vip {
+        padding: 14px 5px;
+    }
+}
+
+
+
+/* 768 */
+@media screen and (max-width: 768px) {
+    .head .navbar .navbar-nav .nav-item {
+        padding-right: 0px;
+    }
+
+    .head .navbar .navbar-nav .nav-after::before {
+        left: 0px;
+    }
+
+    .box1 .card-body .box1-title {
+        font-size: 55px;
+    }
+
+    .box1 .img-box {
+        display: none;
+    }
+
+    .box2 .card-imgbox2 .img-box2 .card-icon-box2 {
+        display: none;
+    }
+
+    .box4 .cardbody-box4 .btn-box4 .btn-vip {
+        padding: 14px 5px;
+    }
+}
+/* 600*/
+@media screen and (max-width: 600px) {
+    .head {
+        left: 60px;
+        right: 60px;
+    }
+
+    .box1 .card-body .box1-title {
+        font-size: 32px;
+        line-height: 38px;
+    }
+
+    .box2 .card-body-box2 .after-title h2 {
+        font-size: 31px;
+        line-height: 33px;
+    }
+
+    .box1 .img-box {
+        display: none;
+    }
+
+    .box2 .card-imgbox2 .img-box2 .card-icon-box2 {
+        display: none;
+    }
+
+    .box4 .cardbody-box4 .btn-box4 .btn-vip {
+        padding: 14px 5px;
+    }
+
+    .box6 .bar-box6{
+        display: none;
+    }
+}
+
+
+
+
+/* 425 */
+@media screen and (max-width: 425px) {
+    .head {
+        left: 60px;
+        right: 60px;
+    }
+
+    .box1 .card-body .box1-title {
+        font-size: 32px;
+        line-height: 38px;
+    }
+
+    .box2 .card-body-box2 .after-title h2 {
+        font-size: 31px;
+        line-height: 33px;
+    }
+
+    .box1 .img-box {
+        display: none;
+    }
+
+    .box2 .card-imgbox2 .img-box2 .card-icon-box2 {
+        display: none;
+    }
+
+    .box4 .cardbody-box4 .btn-box4 .btn-vip {
+        padding: 14px 5px;
+    }
+
+    .box6 .bar-box6{
+        display: none;
+    }
+}

@@ -1,0 +1,24 @@
+.after-title h2 {
+    display: inline-block;
+    font-family: go-bold;
+    font-size: 45px;
+    line-height: 50px;
+    letter-spacing: -2.02px;
+    color: #000000;
+}
+
+.after-title h2 span {
+    position: relative;
+    z-index: 1;
+}
+
+.after-title h2 span::after {
+    position: absolute;
+    content: "";
+    width: 100%;
+    border: 15px solid #0093DE;
+    opacity: 0.55;
+    left: 6%;
+    bottom: -30%;
+    z-index: -1;
+}

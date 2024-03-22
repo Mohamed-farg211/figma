@@ -1,0 +1,46 @@
+@font-face {
+    font-family: go-bold;
+    src: url(../../fonts/Gotham-Font/Gotham-Bold.otf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: go-black;
+    src: url(../../fonts/Gotham-Font/Gotham-Black.otf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: go-book;
+    src: url(../../fonts/Gotham-Font/GothamBook.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: go-book-italic;
+    src: url(../../fonts/Gotham-Font/Gotham-BookItalic.otf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: go-med;
+    src: url(../../fonts/Gotham-Font/GothamMedium.ttf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: go-li;
+    src: url(../../fonts/Gotham-Font/Gotham-Light.otf);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
